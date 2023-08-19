@@ -1,0 +1,1 @@
+val searchOdd = LessonData.searchInArray(_ % 2 == 1, _: List[Int])
